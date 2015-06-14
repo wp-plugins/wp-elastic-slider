@@ -12,8 +12,8 @@ Free WordPress Slider. Easy to use WordPress slider plugin. Create SEO optimised
 
 == Description ==
 
-> <strong>Please contact [plugin support](https://wordpress.org/support/plugin/wp-elastic-slider) before leaving a bad rating</strong></strong><br>
->
+> <strong>Please contact [plugin support](https://wordpress.org/support/plugin/wp-elastic-slider) before leaving a bad rating.</strong><br>
+> 
 > Checkout Official Demo - [Demo Slider](http://demo.themeweave.com/plugin-test/wp-elastic-slider-demo/)
 
 
