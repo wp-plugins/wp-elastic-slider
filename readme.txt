@@ -1,7 +1,7 @@
 ﻿=== Wp Elastic Slider ===
 Contributors: themeweave
 Tags: banner, CSS, gallery, image, image slider, images, javascript, jquery, links, page, photo, photos, picture, pictures, plugin, Post, posts, responsive slider, shortcode, slider, slideshow, widget, wordpress, wordpress slider
-Donate link: donate link
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N49V7LCE2WNE2&lc=US&item_name=ThemeWeave&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 3.5
 Tested up to: 4.2
 License: GPL 2.0
@@ -11,9 +11,9 @@ Free WordPress Slider. Easy to use WordPress slider plugin. Create SEO optimised
 
 == Description ==
 
-> <strong>Please contact [plugin support](https://wordpress.org/support/plugin/wp-elastic-slider) before leaving a bad rating</strong></strong><br>
->
-> Checkout Official Demo - [Demo Slider](http://demo.themeweave.com/plugin-test/wp-elastic-slider-demo/)
+<strong>Please contact [plugin support](https://wordpress.org/support/plugin/wp-elastic-slider) before leaving a bad rating</strong></strong><br>
+
+Checkout Official Demo - [Demo Slider](http://demo.themeweave.com/plugin-test/wp-elastic-slider-demo/)
 
 Wp Elastic Slider is a responsive WordPress slider with jquery easing effects and fully customizeable. Wp Elastic Slider is packed with a point-and-click wizard to create fantastic image sliders in a matter of seconds without coding and image editing. Responsive, fully accessible as a pure jquery slider, touch swipe support, all browsers, all devices, search engine friendly, clean and valid markup.
 
