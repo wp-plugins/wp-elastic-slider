@@ -53,3 +53,6 @@ Follow us on Facebook: [Themeweave](https://facebook.com/themeweave)
 
 = 1.0 [14/06/15] =
 * Initial version
+
+= 1.1 [15/07/15] =
+* Fixed autoplay issue

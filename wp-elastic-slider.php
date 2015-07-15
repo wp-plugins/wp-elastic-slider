@@ -4,7 +4,7 @@
  * Plugin Name: Wp Elastic Slider
  * Plugin URI:  http://www.themeweave.com
  * Description: Easy to use WordPress elastic slider plugin. Create SEO friendly responsive slideshows with jQuery easing effects.
- * Version:     1.0
+ * Version:     1.1
  * Author:      Theme Weave
  * Author URI:  http://www.themeweave.com/
  * License:     GPL-2.0+
