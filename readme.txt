@@ -56,3 +56,6 @@ Follow us on Facebook: [Themeweave](https://facebook.com/themeweave)
 
 = 1.1 [15/07/15] =
 * Fixed autoplay issue
+
+= 1.1.1 [15/07/15] =
+* Fixed undefined conflict
