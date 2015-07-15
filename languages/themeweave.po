@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Elastic Slider 1.0\n"
+"POT-Creation-Date: 2015-02-01 23:40+0600\n"
+"PO-Revision-Date: 2015-02-01 23:40+0600\n"
+"Last-Translator: ThemeWeave <dev@themeweave.com>\n"
+"Language-Team: ThemeWeave <dev@themeweave.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x;_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-elastic-slider.php:129 ../wp-elastic-slider.php:130
+#: ../wp-elastic-slider.php:132
+msgid "ELastic Slider"
+msgstr ""
+
+#: ../wp-elastic-slider.php:131
+msgid "ELastic Sliders"
+msgstr ""
+
+#: ../wp-elastic-slider.php:133
+msgid "Add New"
+msgstr ""
+
+#: ../wp-elastic-slider.php:134 ../wp-elastic-slider.php:135
+msgid "New Slider"
+msgstr ""
+
+#: ../wp-elastic-slider.php:136
+msgid "Edit Slider"
+msgstr ""
+
+#: ../wp-elastic-slider.php:137
+msgid "View Book"
+msgstr ""
+
+#: ../wp-elastic-slider.php:138
+msgid "All Sliders"
+msgstr ""
+
+#: ../wp-elastic-slider.php:139
+msgid "Search Slider"
+msgstr ""
+
+#: ../wp-elastic-slider.php:140
+msgid "Parent Slider:"
+msgstr ""
+
+#: ../wp-elastic-slider.php:141
+msgid "No sliders found."
+msgstr ""
+
+#: ../wp-elastic-slider.php:142
+msgid "No sliders found in Trash."
+msgstr ""
+
+#: ../wp-elastic-slider.php:161
+#, php-format
+msgid "%s slider updated."
+msgstr ""
+
+#: ../wp-elastic-slider.php:162
+#, php-format
+msgid "%s slider not updated, somebody is editing it."
+msgstr ""
+
+#: ../wp-elastic-slider.php:163
+#, php-format
+msgid "%s slider permanently deleted."
+msgstr ""
+
+#: ../wp-elastic-slider.php:164
+#, php-format
+msgid "%s slider moved to the Trash."
+msgstr ""
+
+#: ../wp-elastic-slider.php:165
+#, php-format
+msgid "%s slider restored from the Trash."
+msgstr ""
+
+#: ../wp-elastic-slider.php:216
+msgid "Slider updated."
+msgstr ""
+
+#: ../wp-elastic-slider.php:217
+msgid "Slider updated"
+msgstr ""
+
+#: ../wp-elastic-slider.php:218
+msgid "Slider published"
+msgstr ""
+
+#: ../wp-elastic-slider.php:219
+msgid "Slider saved"
+msgstr ""
+
+#: ../wp-elastic-slider.php:220
+msgid "Slider submitted"
+msgstr ""
+
+#: ../wp-elastic-slider.php:221
+msgid "Slider scheduled successfully"
+msgstr ""
+
+#: ../wp-elastic-slider.php:222
+msgid "Slider draft updated"
+msgstr ""
+
+#: ../wp-elastic-slider.php:255 ../templates/uses.php:5
+msgid "Shortcode"
+msgstr ""
+
+#: ../wp-elastic-slider.php:303
+msgid "Slide Name"
+msgstr ""
+
+#: ../wp-elastic-slider.php:310
+msgid "Slides"
+msgstr ""
+
+#: ../wp-elastic-slider.php:317 ../templates/publish.php:16
+msgid "Publish"
+msgstr ""
+
+#: ../wp-elastic-slider.php:326
+msgid "Slider Configuration"
+msgstr ""
+
+#: ../wp-elastic-slider.php:335
+msgid "Uses"
+msgstr ""
+
+#: ../wp-elastic-slider.php:344
+msgid "Follow Us"
+msgstr ""
+
+#: ../wp-elastic-slider.php:353
+msgid "Style Editor"
+msgstr ""
+
+#: ../templates/uses.php:8
+msgid "Template"
+msgstr ""
+
+#: ../templates/uses.php:14
+msgid "Copy & paste the shortcode directly into any WordPress post or page."
+msgstr ""
+
+#: ../templates/uses.php:19
+msgid ""
+"Copy & paste this code into a template file to include the slideshow within "
+"your theme."
+msgstr ""
+
+#: ../templates/publish.php:6
+#, php-format
+msgid "Published on: <b>%s</b>"
+msgstr ""
+
+#: ../templates/publish.php:8
+msgid "Not published yet."
+msgstr ""
+
+#: ../templates/slides.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#: ../templates/slides.php:16
+msgid "Delete slide"
+msgstr ""
+
+#: ../templates/slides.php:17
+msgid "Upload Image"
+msgstr ""
+
+#: ../templates/slides.php:17
+msgid "Insert Slide"
+msgstr ""
+
+#: ../templates/slides.php:27 ../templates/config.php:7
+msgid "Slide"
+msgstr ""
+
+#: ../templates/slides.php:30
+msgid "Seo"
+msgstr ""
+
+#: ../templates/slides.php:37
+msgid "Title"
+msgstr ""
+
+#: ../templates/slides.php:40
+msgid "Caption"
+msgstr ""
+
+#: ../templates/slides.php:46
+msgid "Image Title"
+msgstr ""
+
+#: ../templates/slides.php:49
+msgid "Image Alt"
+msgstr ""
+
+#: ../templates/title.php:2
+msgid "Enter a Slide Name"
+msgstr ""
+
+#: ../templates/styles.php:7
+msgid "Title Settings"
+msgstr ""
+
+#: ../templates/styles.php:10
+msgid "Caption Settings"
+msgstr ""
+
+#: ../templates/styles.php:21 ../templates/styles.php:115
+msgid "Font Size"
+msgstr ""
+
+#: ../templates/styles.php:22 ../templates/styles.php:116
+msgid "Choose the font size of slide title in em unit"
+msgstr ""
+
+#: ../templates/styles.php:41 ../templates/styles.php:135
+msgid "Line Height"
+msgstr ""
+
+#: ../templates/styles.php:42 ../templates/styles.php:92
+#: ../templates/styles.php:136 ../templates/styles.php:186
+msgid "Choose the line height of slide title in  em unit"
+msgstr ""
+
+#: ../templates/styles.php:62 ../templates/styles.php:156
+msgid "Title Color"
+msgstr ""
+
+#: ../templates/styles.php:63 ../templates/styles.php:77
+#: ../templates/styles.php:157 ../templates/styles.php:171
+msgid "Choose the color of slide title"
+msgstr ""
+
+#: ../templates/styles.php:76 ../templates/styles.php:170
+msgid "Title Background"
+msgstr ""
+
+#: ../templates/styles.php:91 ../templates/styles.php:185
+msgid "Background Opacity"
+msgstr ""
+
+#: ../templates/config.php:4
+msgid "Slide Animation"
+msgstr ""
+
+#: ../templates/config.php:5
+msgid "Choose the animation type"
+msgstr ""
+
+#: ../templates/config.php:8
+msgid "Center"
+msgstr ""
+
+#: ../templates/config.php:16
+msgid "Autoplay"
+msgstr ""
+
+#: ../templates/config.php:17
+msgid ""
+"If true the slider will automatically slide, and it will only stop if the "
+"user clicks on a thumb"
+msgstr ""
+
+#: ../templates/config.php:19
+msgid "True"
+msgstr ""
+
+#: ../templates/config.php:20
+msgid "False"
+msgstr ""
+
+#: ../templates/config.php:32
+msgid "Slideshow Interval"
+msgstr ""
+
+#: ../templates/config.php:33
+msgid "Speed for the sliding animation"
+msgstr ""
+
+#: ../templates/config.php:48
+msgid "Title Speed"
+msgstr ""
+
+#: ../templates/config.php:49
+msgid "Titles animation speed"
+msgstr ""
+
+#: ../templates/config.php:62
+msgid "Background Easing"
+msgstr ""
+
+#: ../templates/config.php:63
+msgid "Easing for the background image slide"
+msgstr ""
+
+#: ../templates/config.php:75
+msgid "Title Easing"
+msgstr ""
+
+#: ../templates/config.php:76
+msgid "Easing for the title and caption"
+msgstr ""
+
+#: ../templates/config.php:92
+msgid "Thumb Max Width"
+msgstr ""
+
+#: ../templates/config.php:93
+msgid "Maximum width of slider thumbnail"
+msgstr ""
+
+#: ../templates/config.php:105
+msgid "Slider Height"
+msgstr ""
+
+#: ../templates/config.php:106
+msgid "Set the height of the slider"
+msgstr ""
